@@ -20,8 +20,8 @@
 ```
 
 # [💻 links]
-(🔗 telegram)[https://t.me/webvuln]
-(🔗 discord)[https://discord.gg/xR8ZX7tAJ6]
+(🔗telegram)[https://t.me/webvuln]
+(🔗discord)[https://discord.gg/xR8ZX7tAJ6]
 
 # [💵 donate]
 
