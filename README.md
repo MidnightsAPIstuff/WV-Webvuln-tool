@@ -19,7 +19,7 @@
 📍 IP scanner (target IP) >  Webvuln -scan -target=(target IP) -amount=(amount of time to scan for) -port=(port here)                 [scans for IPs near a target IP and port)
 ```
 
-# [📍 current banner]
+# [t.me/webvuln]
 ```
                                           _       __     __  _    __      __    
                                          | |     / /__  / /_| |  / /_  __/ /___ 
